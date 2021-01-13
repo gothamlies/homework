@@ -46,5 +46,4 @@ static void Main(string[] args)
                     Console.WriteLine("К сожалению вы проиграли, у вас закончились попытки!");
                 }               
             }
-
         }
