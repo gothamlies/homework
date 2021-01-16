@@ -1,9 +1,9 @@
 static void Main(string[] args)
         {
-            Console.Write("Введите начало интервала: ");
+            Console.WriteLine("Введите начало интервала: ");
             int x = int.Parse(Console.ReadLine());
             
-            Console.Write("Конец интервала: ");
+            Console.WriteLine("Конец интервала: ");
             int y = int.Parse(Console.ReadLine());
 
             Random rand = new Random();
