@@ -15,7 +15,6 @@
             int c = 1;
             while (c <= g)
             {
-
                 if (g % c == 0)
                 {
                     Console.Write("{0} ", c);
